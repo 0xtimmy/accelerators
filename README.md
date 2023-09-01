@@ -4,7 +4,7 @@
 
 *a repo for organizing thoughts, designs, and references*
 
-![Concept Design](https://github.com/0xtimmy/accelerators/blob/master/concept.png?raw=true)
+![Concept Design](https://github.com/0xtimmy/accelerators/blob/master/Concept.png?raw=true)
 
 # Papers
 APTPU
